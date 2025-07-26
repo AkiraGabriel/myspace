@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Meu espaço de estudos
+title: My studies
 ---
-
-Bem-vindo ao meu site!
 
 - [Python](python.md)
 - [Outros estudos](outros.md)
